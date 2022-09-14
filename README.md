@@ -3,7 +3,9 @@
 
 # DBExp-OficinaMecanica
 
-## Database Experience - Projeto de BD de Oficina Mecânica com MySQL Workbench
+Database Experience - DIO
+
+## Projeto de BD de Oficina Mecânica com MySQL Workbench
 
 ## Objetivo:
 Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
